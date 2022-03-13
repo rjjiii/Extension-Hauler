@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+ <Description about="urn:mozilla:install-manifest">
+  <em:name>Extension Hauler</em:name>
+  <em:id>extension_hauler@rjjiii.kmeleonbrowser.org</em:id>
+  <em:developer>Many thanks to the original author:</em:developer>
+  <em:developer>RealityRipple</em:developer>
+  <em:developer>Website: realityripple.com</em:developer> 
+  <em:creator>R.J.J. III</em:creator>
+  <em:homepageURL>https://github.com/rjjiii</em:homepageURL>
+  <em:version>2.3</em:version>
+  <em:description>Export XUL-based extensions from K-Meleon.</em:description>
+  <em:type>2</em:type>
+  <!-- Firefox -->
+  <em:targetApplication>
+   <Description>
+    <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+    <em:minVersion>3.0</em:minVersion>
+    <em:maxVersion>50.*</em:maxVersion>
+   </Description>
+  </em:targetApplication>
+  <!-- kmeleon -->
+   </em:targetApplication>
+      <em:targetApplication>
+      <Description>
+        <em:id>{944df56f-c0ec-4d7b-94b6-f625c8cc96ea}</em:id>  
+        <em:minVersion>74.0</em:minVersion>
+        <em:maxVersion>77.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>  
+  <em:iconURL>chrome://extexp/skin/logo.png</em:iconURL>
+  <em:icon64URL>chrome://extexp/skin/logo64.png</em:icon64URL>
+ </Description>
+</RDF>

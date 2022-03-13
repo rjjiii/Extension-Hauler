@@ -1,0 +1,4 @@
+<!ENTITY export.label "Export">
+<!ENTITY export.accesskey "x">
+<!ENTITY export.tooltiptext "Export this extension as an XPI file">
+<!ENTITY export.menuitem "Export All Extensions...">
