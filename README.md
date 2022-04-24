@@ -1,5 +1,8 @@
 # Extension Hauler
-Extension Hauler is an unofficial build of ExtExp from Reality Ripple Software. ExtExp works fine on version 76 of K-Meleon. You can download it here: 
+
+Extension Hauler can export XUL-based extensions from K-Meleon. You can even export all of your extensions at once when you're upgrading to a new version of the browser. This is an unofficial build of Reality Ripple's extension "ExtExp" that will install to older versions of K-Meleon without any special setup or modification. 
+
+Extension Hauler is an unofficial build of ExtExp from Reality Ripple Software. ExtExp works fine on version 76 of K-Meleon. You can download ExtExp here: 
 https://github.com/RealityRipple/ExtExp/releases/tag/Legacy
 
 Reality Ripple Software views this as an unsupported legacy release. It is distributed freely and as-is, but feel free to visit the K-Meleon forum if you have questions or issues:
