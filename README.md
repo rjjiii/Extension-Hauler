@@ -11,7 +11,7 @@ To examine the source code, extract the .xpi file with any archiver like 7-zip o
 
 Extension Hauler has been released to the Public Domain. See the Unlicense Disclaimer below for specific details.
 
-##Unlicense Disclaimer
+## Unlicense Disclaimer
 
 This is free and unencumbered software released into the public domain.
 
